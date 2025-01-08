@@ -111,7 +111,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/eventhub_logo_2_no" />
+        app:srcCompat="@drawable/logo" />
 
     <RadioGroup
         android:id="@+id/radio_group"

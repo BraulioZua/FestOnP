@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FF5733"
     tools:context=".view.Account.Register.RegisterEditOrganizer.RegisterEditOrganizerActivity">
 
     <TextView
@@ -31,7 +32,7 @@
         android:text="Register"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.996"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputOrganizerSsn" />
 
@@ -125,7 +126,7 @@
         android:layout_marginEnd="10dp"
         android:ems="10"
         android:hint="John"
-        android:textColorHint="@color/whitesmok"
+        android:textColorHint="@color/black"
         android:inputType="text"
         android:textColor="@color/whitesmok"
         android:backgroundTint="@color/whitesmok"
