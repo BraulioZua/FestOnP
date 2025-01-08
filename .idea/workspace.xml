@@ -5,139 +5,14 @@
       <config />
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_choose_registration.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_event.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_event_overview.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_customer_home_page.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_customer_purchases.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_event_details.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_event_search.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home_page.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_organizer_home_page.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_purchase_details.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register_customer.xml">
         <config>
-          <theme>@style/Theme.EventHub</theme>
+          <theme>@style/Theme.FestOn</theme>
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register_organizer.xml">
         <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_review_event.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_terms_and_conditions.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ticket_booking.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ticket_category_selection.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ticket_discount_selection.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/event_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/organized_event_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/purchase_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/purchased_ticket_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/review_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ticket_category_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ticket_discount_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ticket_list_item.xml">
-        <config>
-          <theme>@style/Theme.EventHub</theme>
+          <theme>@style/Theme.FestOn</theme>
         </config>
       </layout>
     </layouts>
@@ -146,7 +21,92 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eabb049-f0a3-46bb-b450-573a29ca094d" name="Changes" comment="" />
+    <list default="true" id="861a65fe-ee4d-4bc4-b74c-82a6459ce639" name="Changes" comment="ATUALIZACAO">
+      <change beforePath="$PROJECT_DIR$/.idea/eventhub - Copy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eventhub_logo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eventhub_logo_1_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eventhub_logo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eventhub_logo_2_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eventhub_only_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/1.account-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/2.event-search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/3.event-review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/4.ticket-booking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/5.event-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/6.ticket-disposal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/Report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/domain-design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/english/software-requirements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/1.account-management-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/2.event-search-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/3.event-review-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/4.ticket-booking-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/5.event-management-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/6.ticket-disposal-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/Report-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/domain-design-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/greek/software-requirements-greek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/activity-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/activity-create-event.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/activity-event-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/activity-ticket-disposal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/activity-ticket-purchase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-organizer-home-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-review-event.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-ticket-booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/class-ticketBookingPresenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/coverage-report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/coverage_report_R4-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/coverage_report_R4-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/domain-model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-calculateRating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-calculateTotalCost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-canReview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-create-event.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-event-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-register-edit-customer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-register-edit-organizer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-terms-and-conditions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-ticket-booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/sequence-ticket-purchase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/uml/requirements/use-case-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/activity-create-account.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/activity-create-event.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/activity-event-search.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/activity-ticket-disposal.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/activity-ticket-purchase.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-diagram.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-login.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-organizer-home-page.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-review-event.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-ticket-booking.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/class-ticketBookingPresenter.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/domain-model.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-calculateRating.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-calculateTotalCost.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-canReview.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-create-account.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-create-event.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-event-search.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-login.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-register-edit-customer.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-register-edit-organizer.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-terms-and-conditions.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-ticket-booking.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/sequence-ticket-purchase.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/requirements/use-case-diagram.uxf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,45 +123,43 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Delaine22&quot;
+    &quot;assignee&quot;: &quot;BraulioZua&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Ippo03/eventhub.git&quot;,
-    &quot;accountId&quot;: &quot;3f3e60dd-cadd-4530-881a-756cc8e53c24&quot;
+    &quot;url&quot;: &quot;https://github.com/BraulioZua/FestOnP.git&quot;,
+    &quot;accountId&quot;: &quot;aaea5ea6-4221-46b6-8089-f4b4925fde9e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2r4CAJEBRiZwuWMP3DQAXRe6q2P" />
+  <component name="ProjectId" id="2rLwcfnlhnNFS8AJ0SBvn9QEsaT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/braul/Desktop/FestON",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User2\Desktop\eventhub\app\src\main\res\drawable" />
-    </key>
-  </component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="FestOn.app.main" />
@@ -273,12 +231,37 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1eabb049-f0a3-46bb-b450-573a29ca094d" name="Changes" comment="" />
-      <created>1735808821599</created>
+      <changelist id="861a65fe-ee4d-4bc4-b74c-82a6459ce639" name="Changes" comment="" />
+      <created>1736351744280</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735808821599</updated>
+      <updated>1736351744280</updated>
     </task>
+    <task id="LOCAL-00001" summary="ATUALIZACAO">
+      <option name="closed" value="true" />
+      <created>1736367614357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736367614357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="ATUALIZACAO" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATUALIZACAO" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/FestOn/view/Account/Register/RegisterEditCustomer/RegisterEditCustomerActivity.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
