@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FestOn</string>
+    <string name="select_genre">Select Genres</string>
+    <string name="select_sorting">Select Sorting</string>
+    <string name="don_t_agree">Don\'t Agree</string>
+    <string name="agree">Agree</string>
+    <string name="Male">MALE</string>
+    <string name="Female">FEMALE</string>
+    <string-array name="genres">
+        <item>Festas de Santos Populares</item>
+        <item>Festas ao Ar Livre</item>
+        <item>Festas de Bairro</item>
+        <item>Noites de Fado</item>
+        <item>Sunsets à Beira-Rio</item>
+        <item>Festivais de Verão</item>
+        <item>Rooftop Parties</item>
+        <item>Festas em Discotecas</item>
+        <item>Jantares Temáticos</item>
+        <item>Eventos Culturais</item>
+    </string-array>
+    <string-array name="sorting">
+        <item>Capacity</item>
+        <item>Popularity</item>
+        <item>Date (Closer)</item>
+        <item>Date (Further)</item>
+        <item>Rating</item>
+    </string-array>
+</resources>
